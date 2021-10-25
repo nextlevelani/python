@@ -1,4 +1,4 @@
-#1
+#exercise1
 l = [1,2,3,4,5,6,7,8,9,10]
 output = 0
 for i in l:
@@ -17,7 +17,7 @@ output :
 45
 55
 
-#2
+#exercise2
 n = [3,5,6,7,8,9,10,11,15,19,20]
 i = 0
 for i in n:
@@ -33,7 +33,7 @@ for i in n:
 15
 20
 
-#3
+#exercise3
 name = input("Enter your name: ")
 role = input("Enter your designation: ")
 salary = float(input("Enter your salary per month(INR): "))
@@ -84,7 +84,7 @@ total tax:  6570.648
 Salary left after all the tax deduction:  41282.592
 
   
-#4
+#exercise4
 
 x = []
 for i in range(1,501):
@@ -195,7 +195,7 @@ output:
 495
 the count:  99
 
-#5
+#exercise5
 consumer_number = input("Enter your consumer number: ")
 name = input("Enter your name: ")
 unit = int(input("Enter unit consumed: "))
